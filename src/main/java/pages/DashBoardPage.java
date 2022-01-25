@@ -12,6 +12,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class DashBoardPage extends BaseClass {
 	WebDriver driver;
+	//aj2
 	@FindBy(xpath = "//*[@type='button']") 
 	private WebElement getstartedbutton;
 	

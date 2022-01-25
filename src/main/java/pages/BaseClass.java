@@ -9,6 +9,7 @@ public abstract class BaseClass {
 	Properties prop ;
 	FileInputStream fis;
 	String path;
+	//aj
 	public  BaseClass() throws IOException
 	{
 		 prop =new Properties();
